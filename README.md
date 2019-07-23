@@ -36,3 +36,11 @@ git flow feature start top
 git flow feature publish top
 ```
 
+github側でプルリクを作ってマージしておく。    
+
+
+```
+git checkout develop
+git pull origin develop
+```
+
